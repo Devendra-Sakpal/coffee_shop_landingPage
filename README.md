@@ -5,7 +5,7 @@ A modern and responsive **Coffee Shop Landing Page** built using HTML5 and CSS3.
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://your-vercel-link.vercel.app
+🔗 **Live Website:** [https://your-vercel-link.vercel.app](https://devendra-sakpal.github.io/coffee_shop_landingPage/)
 
 🔗 **GitHub Repository:** https://github.com/Devendra-Sakpal/coffee_shop_landingPage
 
